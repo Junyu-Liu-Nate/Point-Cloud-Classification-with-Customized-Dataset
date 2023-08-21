@@ -62,7 +62,7 @@ The training is done on Google Colab using T4 GPU. The ```batchsize``` is set to
 
 ### Result
 
-The test accuracy is 98.625\% on 1600 test point clouds for 8 classes.
+The test accuracy is **98.625\%** on 1600 test point clouds for 8 classes.
 
 When checking the validation accuracy during the training process, the highest ones are 98.625\% when approaching the end of the training process.
 
