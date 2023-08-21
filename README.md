@@ -64,6 +64,6 @@ The training is done on Google Colab using T4 GPU. The ```batchsize``` is set to
 
 The test accuracy is **98.625\%** on 1600 test point clouds for 8 classes.
 
-When checking the validation accuracy during the training process, the highest ones are 98.625\% when approaching the end of the training process.
+When checking the validation accuracy during the training process, the highest ones are 100.0\% when approaching the end of the training process. The training log can be found in ```trainCode/PointNetPyTorch.ipynb```.
 
 The trained models (saved for each epoch) can be found in ```trainCode/trained_model/```. The final model is ```cls_model_19.pth```.
